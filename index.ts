@@ -1,5 +1,3 @@
-console.clear();
-
 import { Observable } from 'rxjs';
 
 const observable = new Observable((observer) => {
